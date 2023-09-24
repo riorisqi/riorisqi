@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Rio
 
-💬 I'm an Android Developer and currently studying at Universitas Islam Indonesia majoring at Informatics Engineering.\
-🌱 I’m currently learning Kotlin language for Mobile Android Development.
+💬 I'm an Mobile Developer and I'm a bachelor's degree graduate majoring in informatics.\
+🌱 I’m currently learning Flutter framework for Mobile Development.
 
 ### Github Statistic
 <p align="left">
