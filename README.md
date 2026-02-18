@@ -1,7 +1,5 @@
-### Hi! 👋 I'm Rio
-
-💬 I'm an Mobile Developer and I'm a bachelor's degree graduate majoring in informatics.\
-🌱 I’m currently learning Flutter framework for Mobile Development.
+💬 Currently developing app for financial sector companies, mainly using Java, Spring Boot, and React based websites.\
+🌱 Still learning more about backend stuff (mainly spring boot) and front end apps, currently interested using Rust for development (still learning)
 
 ### Github Statistic
 <p align="left">
